@@ -15,4 +15,5 @@
 
 no_sync
 ui
-DjangoAPI/settings.py
+DjangoAPI/DjangoAPI/settings.py
+#test
